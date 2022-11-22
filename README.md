@@ -1,6 +1,6 @@
 # Snake-for-SL
 ## Descripcion:
-Juego tipo Snake, hecho en SL.
+Juego tipo Snake, hecho en SL. Pseudocodigo, un mini proyecto que lo realice en 2019.
 
 # Instalacion
 1. Descargar SLE versión 2 en `https://www.cnc.una.py/sl/SL-descarga.html`
